@@ -1,0 +1,44 @@
+﻿body {
+    margin: 0px;
+    padding: 0px;
+    align-content: center;
+}
+
+#calculator {
+    padding: 20px;
+    background-color: deepskyblue;
+    height: 220px;
+    width: 15%;
+    margin-left: 300px;
+}
+
+#firstnum {
+    margin-top: 10px;
+    background-color: white;
+    Border: 1px solid blue;
+    width: 80%;
+}
+
+#secondnum {
+    margin-top: 30px;
+    background-color: white;
+    Border: 1px solid blue;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+#idoutput1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: block;
+}
+
+#idbutton, #idbutton1 {
+    display: block;
+    margin-top: 10px;
+}
+
+#idadd, #idsub, #iddiv, #idmul {
+    width: 90px;
+    margin: 5px;
+}
